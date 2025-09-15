@@ -18,4 +18,4 @@ This repository provides R code implementing an extension of the Transition Diag
 
 ## Working with Repository
 
-To replicate the results in the manuscript or run the extended TDCM model on new data, see the main R script in the repository and refer to simulated/empirical data examples.
+To replicate the results in the manuscript or run the extended TDCM model on new data, see the main R script in source code and refer to simulated/empirical data examples.
